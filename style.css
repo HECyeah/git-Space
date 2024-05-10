@@ -1,0 +1,50 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+    height: 100vh;
+    background-image: url("https://w.wallhaven.cc/full/xl/wallhaven-xl3ok3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+header {
+    position: fixed;
+    display: flex;
+
+}
+
+nav {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+}
+
+a {
+    color: inherit;
+}
+
+
+button {
+    background-color: rgba(0, 0, 0, alpha);
+    font-family: "Work Sans", sans-serif;
+    margin: 15px;
+    color: white;
+    vertical-align: middle;
+    border: solid white;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 80px;
+    text-align: center;
+}
+
+
+div {
+    display: flex;
+
+}
+
+.feature {
+    position: relative;
+    top: 350px;
+}

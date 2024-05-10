@@ -1,0 +1,28 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+    height: 100vh;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91dda5fd-93d0-4124-abe4-50bdf8e54899/dcfa47e-594d7cf7-42ad-4664-a13a-0acdfd338a38.jpg/v1/fill/w_988,h_809,q_70,strp/the_treasure_by_nele_diel_dcfa47e-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODM4IiwicGF0aCI6IlwvZlwvOTFkZGE1ZmQtOTNkMC00MTI0LWFiZTQtNTBiZGY4ZTU0ODk5XC9kY2ZhNDdlLTU5NGQ3Y2Y3LTQyYWQtNDY2NC1hMTNhLTBhY2RmZDMzOGEzOC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nHVfq_02VBaiTpOEHSJ1H8TMGN6HgfSfmkd5AQxbgh0");
+    background-size: cover;
+    background-position: center;
+}
+
+a {
+    color: inherit;
+
+}
+
+p {
+    margin: 5px;
+
+}
+
+div {
+    margin: 50px;
+}
+
+
+nav {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+}

@@ -1,0 +1,29 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+    height: 100vh;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2019a256-abf6-4c5d-89be-f58cd09e508c/devwey8-3d1c2871-4b0a-4ac3-957d-97f0787f437a.jpg/v1/fill/w_1280,h_854,q_75,strp/delving_by_whistlingspringrain_devwey8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvMjAxOWEyNTYtYWJmNi00YzVkLTg5YmUtZjU4Y2QwOWU1MDhjXC9kZXZ3ZXk4LTNkMWMyODcxLTRiMGEtNGFjMy05NTdkLTk3ZjA3ODdmNDM3YS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zI8d6BczYHCu5xmGXBCgJgX1EulexjEXKVrh6SBVXII");
+    background-size: cover;
+    background-position: center;
+}
+
+a {
+    color: inherit;
+}
+
+main {
+    margin: 30px;
+}
+
+img {
+    width: 170px;
+    height: 150px;
+    border: solid lightblue;
+}
+
+
+
+nav {
+    font-family: "Work Sans", sans-serif;
+    color: white;
+}
